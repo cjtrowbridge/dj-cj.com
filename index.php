@@ -57,10 +57,10 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-md-7 col-md-push-7 photo">
+						<div class="col-xs-12 col-md-push-7 photo">
 							<img src="/images/dj-cj-013.jpg" alt="Alpha Chi Winter Formal">
 						</div>
-						<div class="col-xs-12 col-md-5 col-md-pull-5">
+						<div class="col-xs-12 col-md-pull-5">
 							<h3>Schools</h3>
 							<ul>
 								<li>Shasta Lake School</li>
@@ -93,10 +93,10 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-md-7 col-md-push-7 photo">
+						<div class="col-xs-12 col-md-push-7 photo">
 							<img src="/images/dj-cj-003.jpg" alt="Halloween House Party in Chico">
 						</div>
-						<div class="col-xs-12 col-md-5 col-md-pull-5">
+						<div class="col-xs-12 col-md-pull-5">
 							<h3>Don't Forget House Parties</h3>
 							<ul>
 								<li>Halloween</li>
