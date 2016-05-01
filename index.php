@@ -35,12 +35,12 @@
 					<h1>DJ CJ</h1> 
 					<p>Twelve Years of EDM and Progressive House</p>
 					<div class="container">
-						<div class="col-xs-12 col-md-6">
-							<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
-						</div>
-						<div class="col-xs-12 col-md-6" style="text-align: right;">
+						<div style="float: right;">
 							Facebook like button
 						</div>
+						
+						<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
+						
 					</div>
 				</div>
 			</div>
