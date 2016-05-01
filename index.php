@@ -138,8 +138,17 @@
 				&nbsp;
 			</div>
 			<div class="row">
-				<div class="col-xs-12 call_to_action">
-					<h1><a href="mailto:chris.j.trowbridge@gmail.com">Email Me!</a></h1>
+				<div class="col-xs-12">
+					<h1>
+						Questions? Curious about rates or availability?
+					</h1>	
+				</div>
+				<div class="col-xs-12 col-md-6 call_to_action">
+					<h2><a href="tel:+1-530-953-9499">Call Me!</a></h2>
+					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
+				</div>
+				<div class="col-xs-12 col-md-6 call_to_action">
+					<h2><a href="mailto:chris.j.trowbridge@gmail.com">Email Me!</a></h2>
 					<a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a>
 				</div>
 			</div>
