@@ -20,6 +20,9 @@
 				padding-top: 1em;
 				padding-bottom: 1em;
 			}
+			.gear div img{
+				height: 100px;
+			}
 		</style>
 	</head>
 	<body>
@@ -93,11 +96,19 @@
 				&nbsp;
 			</div-->
 			<div class="row">
-				<div class="col-xs-12">
-					<img class="col-xs-12 col-md-3" src="images/eon-r.gif" alt="JBL EON">
-					<img class="col-xs-12 col-md-3" src="images/ssl.gif" alt="Serato Scratch LIVE">
-					<img class="col-xs-12 col-md-3" src="images/mixer.png" alt="Denon X500 and HC4500">
-					<img class="col-xs-12 col-md-3" src="images/eon-l.gif" alt="JBL EON">
+				<div class="col-xs-12 gear">
+					<div class="col-xs-12 col-md-3">
+						<img src="images/eon-r.gif" alt="JBL EON">
+					</div>
+					<div class="col-xs-12 col-md-3">
+						<img src="images/ssl.gif" alt="Serato Scratch LIVE">
+					</div>
+					<div class="col-xs-12 col-md-3">
+						<img src="images/mixer.png" alt="Denon X500 and HC4500">
+					</div>
+					<div class="col-xs-12 col-md-3">
+						<img src="images/eon-l.gif" alt="JBL EON">
+					</div>
 					
 					<p>I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
 					up to date content available. My mixer and controller are a Denon X500 and a Denon HC4500 and 
