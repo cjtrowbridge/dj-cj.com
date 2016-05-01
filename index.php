@@ -15,7 +15,7 @@
 				background-image:url(images/bg.jpg);
 				background-attachment:fixed;
 			}
-			.row{
+			.col-xs-12{
 				background-color: #ffffff;
 			}
 		</style>
