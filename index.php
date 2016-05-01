@@ -109,7 +109,6 @@
 					<h3>Download My Free Sample Mixes!</h3>
 					<div>
 						<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/122797726&amp;color=ff6600&amp;auto_play=true&amp;show_artwork=true"></iframe>
-						<br><br><h2>Progressive Dance (Click Here to Download Now!)</h2>
 						<p>This mix contains 24 progressive dance tracks, from a great mix session 
 						which demonstrates my favorite style of music; fast paced, high energy dance.
 						I take you from hip-hop to dubstep and everywhere in between. This is a CD
