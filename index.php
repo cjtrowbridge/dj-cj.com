@@ -17,8 +17,6 @@
 			}
 			.col-xs-12{
 				background-color: #ffffff;
-			}
-			.row{
 				padding-top: 1em;
 				padding-bottom: 1em;
 			}
