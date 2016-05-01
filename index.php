@@ -21,7 +21,7 @@
 			<div class="row">
 				<div class="jumbotron">
 					<h1>DJ CJ</h1> 
-					<p>a decade of edm and progressive house</p> 
+					<p>A decade of edm and progressive house.</p> 
 				</div>
 				
 			</div>
