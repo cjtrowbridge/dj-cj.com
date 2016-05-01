@@ -10,6 +10,15 @@
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+		<style>
+			body{
+				background-image:url(images/bg.jpg);
+				background-attachment:fixed;
+			}
+			.row{
+				background-color: #ffffff;
+			}
+		</style>
 	</head>
 	<body>
 		<div class="container">
@@ -21,10 +30,10 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12 col-md-4">
+				<div class="col-xs-12 col-md-8">
 					image area
 				</div>
-				<div class="col-xs-12 col-md-8">
+				<div class="col-xs-12 col-md-4">
 					<h3>Bars and Nightclubs</h3>
 					<ul>
 						<li>Panama Bar and Cafe</li>
