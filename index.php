@@ -30,6 +30,9 @@
 			.gear img{
 				height: 100px;
 			}
+			.footer{
+				text-align: right;
+			}
 		</style>
 	</head>
 	<body>
@@ -135,7 +138,7 @@
 				&nbsp;
 			</div>
 			<div class="row">
-				<div class="col-xs-12">
+				<div class="col-xs-12 footer">
 						Copyright <a href="http://www.cjtrowbridge.com/" target="_blank">CJ Trowbridge</a> 2010-2016, All Rights Reserved.<br>
 				</div>
 			</div>
