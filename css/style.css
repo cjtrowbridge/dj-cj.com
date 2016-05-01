@@ -2,6 +2,11 @@ body{
 	background-image:url(/images/bg.jpg);
 	background-attachment:fixed;
 }
+.header{
+	background-image:url(/images/banner4.gif);
+	background-attachment:fixed;
+	height: 100px;
+}
 .jumbotron{
 	background-color: #4e00b3;
 	color: #ffffff;
