@@ -27,17 +27,7 @@
 				<div class="jumbotron">
 					<h1>DJ CJ</h1> 
 					<p>A Decade of EDM and Progressive House</p>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 call_to_action">
-					<h1>
-						<a href="mailto:chris.j.trowbridge@gmail.com">
-							Email Me!
-						</a>
-					</h1>
+					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
 				</div>
 			</div>
 		</div>
