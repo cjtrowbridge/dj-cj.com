@@ -113,9 +113,10 @@
 						<img src="images/eon-l.gif" alt="JBL EON">
 					</div>
 					
-					<p>I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
-					up to date content available. My mixer and controller are a Denon X500 and a Denon HC4500 and 
-					sound is provided by JBL Eon powered loudspeakers. Only the best.</p>
+					<p>
+						I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
+						up to date content available.
+					</p>
 					<br>
 					<div id="contact">
 						<b>Phone:</b> 530.953.9499
