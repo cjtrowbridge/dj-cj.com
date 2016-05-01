@@ -40,9 +40,6 @@
 				</div>
 			</div>
 			<div class="row">
-				&nbsp;
-			</div>
-			<div class="row">
 				<div class="col-xs-12">
 					<div class="row">
 						<div class="col-xs-12 col-md-7 photo">
