@@ -31,40 +31,45 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-8">
-					image area
+					<div class="col-xs-12 col-md-8">
+						image area
+					</div>
+					<div class="col-xs-12 col-md-4">
+						<h3>Bars and Nightclubs</h3>
+						<ul>
+							<li>Panama Bar and Cafe</li>
+							<li>The Maltese Bar and Taproom</li>
+							<li>The 501 Club</li>
+							<li>The University Bar</li>
+						</ul><br>
+						<h3>Schools</h3>
+						<ul>
+							<li>Shasta Lake School</li>
+							<li>Enterprise High School</li>
+							<li>Central Valley High School</li>
+							<li>Buckeye Elementary</li>
+							<li>Parsons Elementary</li>
+							<li>Cow Creek School</li>
+							<li>Milville Elementary</li>
+						</ul><br>
+						<h3>Other Venues</h3>
+						<ul>
+							<li>Forever 21</li>
+							<li>Shasta Dam Concourse</li>
+							<li>Churn Creek Golf Course</li>
+							<li>The Arroyo Room</li>
+							<li>Alpha Chi Sorority</li>
+							<li>Subud Hall</li>
+							<li>Tale O' the Whale Restaurant</li>
+							<li>American Legion Hall</li>
+							<li>Lots of Weddings and Parties</li>
+						</ul><br>
+						<h2>And Lots More</h2>
+					</div>
 				</div>
-				<div class="col-xs-12 col-md-4">
-					<h3>Bars and Nightclubs</h3>
-					<ul>
-						<li>Panama Bar and Cafe</li>
-						<li>The Maltese Bar and Taproom</li>
-						<li>The 501 Club</li>
-						<li>The University Bar</li>
-					</ul><br>
-					<h3>Schools</h3>
-					<ul>
-						<li>Shasta Lake School</li>
-						<li>Enterprise High School</li>
-						<li>Central Valley High School</li>
-						<li>Buckeye Elementary</li>
-						<li>Parsons Elementary</li>
-						<li>Cow Creek School</li>
-						<li>Milville Elementary</li>
-					</ul><br>
-					<h3>Other Venues</h3>
-					<ul>
-						<li>Forever 21</li>
-						<li>Shasta Dam Concourse</li>
-						<li>Churn Creek Golf Course</li>
-						<li>The Arroyo Room</li>
-						<li>Alpha Chi Sorority</li>
-						<li>Subud Hall</li>
-						<li>Tale O' the Whale Restaurant</li>
-						<li>American Legion Hall</li>
-						<li>Lots of Weddings and Parties</li>
-					</ul><br>
-					<h2>And Lots More</h2>
-				</div>
+			</div>
+			<div class="row">
+				&nbsp;
 			</div>
 			<!--div class="row">
 				<div class="col-xs-12">
@@ -79,6 +84,9 @@
 						mix does contain explicit lyrics.</p>
 					</div>
 				</div>
+			</div>
+			<div class="row">
+				&nbsp;
 			</div-->
 			<div class="row">
 				<div class="col-xs-12">
@@ -99,6 +107,9 @@
 						<b>Email:</b> <a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a>
 					</div>
 				</div>
+			</div>
+			<div class="row">
+				&nbsp;
 			</div>
 			<div class="row">
 				<div class="col-xs-12">
