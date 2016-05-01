@@ -5,8 +5,8 @@ body{
 .header img{
 	width: 100%;
 }
-.jumbotron h1{
-	border-bottom: 4px solid #4e00b3;
+.jumbotron{
+	border: 4px solid #4e00b3;
 }
 .call_to_action h1 a,
 .call_to_action h2 a,
