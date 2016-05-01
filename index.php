@@ -43,6 +43,7 @@
 			}
 			.footer{
 				text-align: right;
+				font-weight: bold;
 			}
 		</style>
 	</head>
