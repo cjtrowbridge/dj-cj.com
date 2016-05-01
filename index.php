@@ -36,7 +36,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
-					<h1>Some Of My Work...</h1>
+					<h1>Check Out Some Of My Work...</h1>
 				</div>
 			</div>
 			<div class="row">
