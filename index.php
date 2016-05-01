@@ -127,11 +127,16 @@
 							I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
 							up to date content available.
 						</p>
-						<p>
-							<b>Phone:</b> 530.953.9499
-							<b>Email:</b> <a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a>
-						</p>
 					</div>
+				</div>
+			</div>
+			<div class="row">
+				&nbsp;
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
+					<h1><a href="mailto:chris.j.trowbridge@gmail.com">Email Me!chris.j.trowbridge@gmail.com</a></h1>
+					<a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a>
 				</div>
 			</div>
 			<div class="row">
