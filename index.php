@@ -35,13 +35,7 @@
 					<h1>DJ CJ</h1> 
 					<p>Twelve Years of EDM and Progressive House</p>
 					<div style="float: right;">
-						<!-- Facebook like button code -->
-						<div class="fb-like" 
-							data-href="https://www.facebook.com/djcj03/" 
-							data-layout="standard" 
-							data-action="like" 
-							data-show-faces="true">
-						</div>
+						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
 					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a> - 
 					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
@@ -236,7 +230,7 @@
 		  var js, fjs = d.getElementsByTagName(s)[0];
 		  if (d.getElementById(id)) return;
 		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=282897205219065";
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 		
