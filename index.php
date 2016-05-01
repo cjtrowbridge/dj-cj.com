@@ -116,8 +116,9 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12">
-					<h3>Download My Free Sample Mixes!</h3>
+					<h3>Download My Free Mixes!</h3>
 					<div>
+						<h4>2010: Progressive Dance Mix</h4>
 						<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/122797726&amp;color=ff6600&amp;auto_play=true&amp;show_artwork=true"></iframe>
 						<p>This mix contains 24 progressive dance tracks, from a great mix session 
 						which demonstrates my favorite style of music; fast paced, high energy dance.
