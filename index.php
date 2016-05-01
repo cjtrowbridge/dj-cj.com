@@ -35,9 +35,16 @@
 					<h1>DJ CJ</h1> 
 					<p>Twelve Years of EDM and Progressive House</p>
 					<div style="float: right;">
-						Facebook like button
+						<!-- Facebook like button code -->
+						<div class="fb-like" 
+							data-href="https://www.facebook.com/djcj03/" 
+							data-layout="standard" 
+							data-action="like" 
+							data-show-faces="true">
+						</div>
 					</div>
-					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
+					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a> - 
+					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
 				</div>
 			</div>
 		</div>
@@ -222,5 +229,16 @@
 		<!-- jQuery first, then Bootstrap JS. -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+		
+		<!-- Load Facebook SDK for JavaScript -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		
 	</body>
 </html>
