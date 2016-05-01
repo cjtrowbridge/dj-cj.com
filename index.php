@@ -19,10 +19,11 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="jumbotron">
+				<div class="col-xs-12 header"></div>
+				<!--div class="jumbotron">
 					<h1>DJ CJ</h1> 
 					<p>A Decade Of EDM And Progressive House</p> 
-				</div>
+				</div-->
 				
 			</div>
 		</div>
