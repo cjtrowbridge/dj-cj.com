@@ -35,10 +35,24 @@
 					<h1>DJ CJ</h1> 
 					<p>Twelve Years of EDM and Progressive House</p>
 					<div class="container">
-						<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
+						<!--a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
 						<div class="pull-left">
 							facebook like button
-						</div>
+						</div-->
+						<ul class="pull-left">
+							<ul>
+								<li><a href="#">Name</a></li>
+								<li><a href="#">Browse</a></li>
+							</ul>
+						</ul>
+						
+						<ul class="pull-right">
+							<ul>
+								<li><a href="#">Sign Up</a></li>
+								<li><a href="#">Log In</a></li>
+								<li><a href="#">Help</a></li>
+							</ul>
+						</ul>
 					</div>
 				</div>
 			</div>
