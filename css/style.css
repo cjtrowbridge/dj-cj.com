@@ -36,6 +36,9 @@ body{
  .photo{
  	text-align: center;
  }
+ .photo img{
+ 	max-width: 100%;
+ }
 .gear{
 	text-align: center;
 }
