@@ -149,9 +149,11 @@
 						&nbsp;
 					</div>
 					<div class="row">
-						<h1>
-							Questions? Curious about rates or availability?
-						</h1>	
+						<div class="col-xs-12 call_to_action">
+							<h1>
+								Questions? Curious about rates or availability?
+							</h1>
+						</div>
 					</div>
 					<div class="row">
 						&nbsp;
