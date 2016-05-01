@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>DJ CJ</title>
+		<title>DJ CJ: A Decade of EDM and Progressive House</title>
 
 		<!-- Required meta tags always come first -->
 		<meta charset="utf-8">
@@ -19,12 +19,10 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12 header"><img src="/images/banner4.gif" alt="DJ CJ: A Decade of EDM and Progressive House"></div>
-				<!--div class="jumbotron">
-					<h1>DJ CJ</h1> 
-					<p>A Decade Of EDM And Progressive House</p> 
-				</div-->
-				
+				<!--div class="col-xs-12 header"><img src="/images/banner4.gif" alt="DJ CJ: A Decade of EDM and Progressive House"></div-->
+				<div class="jumbotron">
+					<h1>DJ CJ: A Decade of EDM and Progressive House</h1> 
+				</div>
 			</div>
 		</div>
 		<div class="row">
