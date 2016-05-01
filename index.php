@@ -36,11 +36,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
-					<div class="row">
-						<div class="col-xs-12">
-							<h1>Some Of My Work...</h1>
-						</div>
-					</div>
+					<h1>Some Of My Work...</h1>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
 					<div class="row">
 						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-018.jpg" alt="Maltese Monthly Jello Wrestling">
