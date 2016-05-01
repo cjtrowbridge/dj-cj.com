@@ -119,7 +119,9 @@
 					<div class="row">
 						<div class="col-xs-12 call_to_action">
 							<h1>
-								Questions? Curious about rates or availability?
+								<a href="mailto:chris.j.trowbridge@gmail.com">
+									Questions? Curious about rates or availability?
+								</a>
 							</h1>
 						</div>
 					</div>
