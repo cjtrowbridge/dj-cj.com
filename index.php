@@ -25,6 +25,7 @@
 			}
 			.call_to_action:hover{
 				background-color: #4e00b3;
+				color: #ffffff;
 			}
 			.call_to_action:hover h2 a{
 				color: #ffffff;
