@@ -20,7 +20,10 @@
 				padding-top: 1em;
 				padding-bottom: 1em;
 			}
-			.gear div img{
+			.gear{
+				text-align: center;
+			}
+			.gear img{
 				height: 100px;
 			}
 		</style>
@@ -96,17 +99,17 @@
 				&nbsp;
 			</div-->
 			<div class="row">
-				<div class="col-xs-12 gear">
-					<div class="col-xs-12 col-md-3">
+				<div class="col-xs-12">
+					<div class="col-xs-12 col-md-3 gear">
 						<img src="images/eon-r.gif" alt="JBL EON">
 					</div>
-					<div class="col-xs-12 col-md-3">
+					<div class="col-xs-12 col-md-3 gear">
 						<img src="images/ssl.gif" alt="Serato Scratch LIVE">
 					</div>
-					<div class="col-xs-12 col-md-3">
+					<div class="col-xs-12 col-md-3 gear">
 						<img src="images/mixer.png" alt="Denon X500 and HC4500">
 					</div>
-					<div class="col-xs-12 col-md-3">
+					<div class="col-xs-12 col-md-3 gear">
 						<img src="images/eon-l.gif" alt="JBL EON">
 					</div>
 					
