@@ -24,7 +24,8 @@
 			<div class="row">
 				<!--div class="col-xs-12 header"><img src="/images/banner4.gif" alt="DJ CJ: A Decade of EDM and Progressive House"></div-->
 				<div class="jumbotron">
-					<h1><span class="dj_cj">DJ CJ:</span> A Decade of EDM and Progressive House</h1> 
+					<h1>DJ CJ</h1> 
+					<p>A Decade of EDM and Progressive House</p>
 				</div>
 			</div>
 		</div>
