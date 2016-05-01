@@ -39,16 +39,14 @@
 						<div class="pull-left">
 							facebook like button
 						</div-->
-						<ul class="pull-left">
-							<li><a href="#">Name</a></li>
-							<li><a href="#">Browse</a></li>
-						</ul>
-						
-						<ul class="pull-right">
-							<li><a href="#">Sign Up</a></li>
-							<li><a href="#">Log In</a></li>
-							<li><a href="#">Help</a></li>
-						</ul>
+						<div class="nav">
+							<ul class="nav nav-pills">
+								<li><a href="#">Foo</a></li>
+							</ul>
+							<ul class="nav nav-pills pull-right">
+								<li><a href="#">Bar</a></li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
