@@ -33,6 +33,9 @@ body{
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
+ .photo{
+ 	text-align: center;
+ }
 .gear{
 	text-align: center;
 }
