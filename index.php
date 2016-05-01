@@ -19,6 +19,10 @@
 				background-color: #4e00b3;
 				color: #ffffff;
 			}
+			.call_to_action, .call_to_action h1 a{
+				text-align: center;
+				color: #4e00b3;
+			}
 			.col-xs-12{
 				background-color: #ffffff;
 				padding-top: 1em;
@@ -134,8 +138,8 @@
 				&nbsp;
 			</div>
 			<div class="row">
-				<div class="col-xs-12">
-					<h1><a href="mailto:chris.j.trowbridge@gmail.com">Email Me!chris.j.trowbridge@gmail.com</a></h1>
+				<div class="col-xs-12 call_to_action">
+					<h1><a href="mailto:chris.j.trowbridge@gmail.com">Email Me!</a></h1>
 					<a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a>
 				</div>
 			</div>
