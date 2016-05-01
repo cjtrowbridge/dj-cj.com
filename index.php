@@ -87,7 +87,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-md-5 photo">
+						<div class="col-xs-12 col-md-5">
 							<h3>Don't Forget House Parties</h3>
 							<ul>
 								<li>Halloween</li>
@@ -95,7 +95,7 @@
 								<li>...Or Just For Fun</li>
 							</ul>
 						</div>
-						<div class="col-xs-12 col-md-7">
+						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-003.jpg" alt="Halloween House Party in Chico">
 						</div>
 					</div>
