@@ -24,7 +24,7 @@ body{
 .call_to_action:hover a{
 	color: #ffffff;
 }
-.col-xs-12{
+.row .col-xs-12{
 	border: 4px solid #4e00b3;
 	background-color: #ffffff;
 	padding-top: 1em;
