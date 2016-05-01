@@ -31,6 +31,15 @@
 			</div>
 		</div>
 		<div class="row">
+			<div class="col-xs-12 call_to_action">
+				<h1>
+					<a href="mailto:chris.j.trowbridge@gmail.com">
+						Let Me Know What Kind of Event You're Planning...
+					</a>
+				</h1>
+			</div>
+		</div>
+		<div class="row">
 			&nbsp;
 		</div>
 		<div class="container">
