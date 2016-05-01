@@ -18,15 +18,21 @@
 			.col-xs-12{
 				background-color: #ffffff;
 			}
+			.row{
+				padding-top: 1em;
+				padding-bottom: 1em;
+			}
 		</style>
 	</head>
 	<body>
 		<div class="container">
-			<div class="jumbotron">
-				<h1>dj-cj.com</h1> 
-				<p>a decade of djing</p> 
+			<div class="row">
+				<div class="jumbotron">
+					<h1>dj-cj.com</h1> 
+					<p>a decade of djing</p> 
+				</div>
+				
 			</div>
-			
 		</div>
 		<div class="container">
 			<div class="row">
