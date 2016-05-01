@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>DJ CJ: A Decade of EDM and Progressive House</title>
+		<title>DJ CJ: Twelve Years of EDM and Progressive House</title>
 		<link rel="icon" type="image/gif" href="/favicon.gif">
 
 		<!-- Required meta tags always come first -->
@@ -27,7 +27,7 @@
 				<!--div class="col-xs-12 header"><img src="/images/banner4.gif" alt="DJ CJ: A Decade of EDM and Progressive House"></div-->
 				<div class="jumbotron">
 					<h1>DJ CJ</h1> 
-					<p>A Decade of EDM and Progressive House</p>
+					<p>Twelve Years of EDM and Progressive House</p>
 					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
 				</div>
 			</div>
