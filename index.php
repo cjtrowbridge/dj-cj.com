@@ -38,7 +38,7 @@
 				<div class="col-xs-12">
 					<div class="row">
 						<div class="col-xs-12 col-md-8">
-							image area
+							<img src="/images/dj-cj-018.jpg" alt="Maltese Monthly Jello Wrestling">
 						</div>
 						<div class="col-xs-12 col-md-4">
 							<h3>Bars and Nightclubs</h3>
@@ -64,12 +64,12 @@
 							</ul>
 						</div>
 						<div class="col-xs-12 col-md-8">
-							image area
+							<img src="/images/dj-cj-013.jpg" alt="Alpha Chi Winter Formal">
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-xs-12 col-md-8">
-							image area
+							<img src="/images/dj-cj-011.jpg" alt="School Dinner Party">
 						</div>
 						<div class="col-xs-12 col-md-4">
 							<h3>Other Venues</h3>
@@ -84,6 +84,19 @@
 								<li>American Legion Hall</li>
 								<li>Lots of Weddings and Parties</li>
 							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-md-4">
+							<h3>Don't Forget House Parties</h3>
+							<ul>
+								<li>Halloween</li>
+								<li>Cinco De Mayo</li>
+								<li>...Or Just For Fun</li>
+							</ul>
+						</div>
+						<div class="col-xs-12 col-md-8">
+							<img src="/images/dj-cj-003.jpg" alt="Halloween House Party in Chico">
 						</div>
 					</div>
 				</div>
