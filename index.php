@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>dj-cj.com</title>
+		<title>DJ CJ</title>
 
 		<!-- Required meta tags always come first -->
 		<meta charset="utf-8">
@@ -10,42 +10,8 @@
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
-		<style>
-			body{
-				background-image:url(images/bg.jpg);
-				background-attachment:fixed;
-			}
-			.jumbotron{
-				background-color: #4e00b3;
-				color: #ffffff;
-			}
-			.call_to_action, .call_to_action h2 a{
-				text-align: center;
-				color: #4e00b3;
-			}
-			.call_to_action:hover{
-				background-color: #4e00b3;
-				color: #ffffff;
-			}
-			.call_to_action:hover h2 a{
-				color: #ffffff;
-			}
-			.col-xs-12{
-				background-color: #ffffff;
-				padding-top: 1em;
-				padding-bottom: 1em;
-			}
-			.gear{
-				text-align: center;
-			}
-			.gear img{
-				height: 100px;
-			}
-			.footer{
-				text-align: right;
-				font-weight: bold;
-			}
-		</style>
+		
+		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
 		<div class="row">
