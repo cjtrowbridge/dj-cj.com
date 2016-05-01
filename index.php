@@ -122,15 +122,13 @@
 					<div class="col-xs-12 col-md-3 gear">
 						<img src="images/eon-l.gif" alt="JBL EON">
 					</div>
-					
-					<p>
-						I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
-						up to date content available.
-					</p>
-					<br>
-					<div id="contact">
-						<b>Phone:</b> 530.953.9499
-						<b>Email:</b> <a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a>
+					<div class="col-xs-12 gear">
+						<p>
+							I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
+							up to date content available.
+						</p>
+						<p><b>Phone:</b> 530.953.9499</p>
+						<p><b>Email:</b> <a href="mailto:chris.j.trowbridge@gmail.com">chris.j.trowbridge@gmail.com</a></p>
 					</div>
 				</div>
 			</div>
