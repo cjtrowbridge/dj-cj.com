@@ -40,18 +40,14 @@
 							facebook like button
 						</div-->
 						<ul class="pull-left">
-							<ul>
-								<li><a href="#">Name</a></li>
-								<li><a href="#">Browse</a></li>
-							</ul>
+							<li><a href="#">Name</a></li>
+							<li><a href="#">Browse</a></li>
 						</ul>
 						
 						<ul class="pull-right">
-							<ul>
-								<li><a href="#">Sign Up</a></li>
-								<li><a href="#">Log In</a></li>
-								<li><a href="#">Help</a></li>
-							</ul>
+							<li><a href="#">Sign Up</a></li>
+							<li><a href="#">Log In</a></li>
+							<li><a href="#">Help</a></li>
 						</ul>
 					</div>
 				</div>
