@@ -94,10 +94,10 @@
 			</div-->
 			<div class="row">
 				<div class="col-xs-12">
-					<img class="col-xs-12 col-md-4" src="images/eon-r.gif" alt="JBL EON">
-					<img class="col-xs-12 col-md-4" src="images/ssl.gif" alt="Serato Scratch LIVE">
-					<img class="col-xs-12 col-md-4" src="images/mixer.png" alt="Denon X500 and HC4500">
-					<img class="col-xs-12 col-md-4" src="images/eon-l.gif" alt="JBL EON">
+					<img class="col-xs-12 col-md-3" src="images/eon-r.gif" alt="JBL EON">
+					<img class="col-xs-12 col-md-3" src="images/ssl.gif" alt="Serato Scratch LIVE">
+					<img class="col-xs-12 col-md-3" src="images/mixer.png" alt="Denon X500 and HC4500">
+					<img class="col-xs-12 col-md-3" src="images/eon-l.gif" alt="JBL EON">
 					
 					<p>I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
 					up to date content available. My mixer and controller are a Denon X500 and a Denon HC4500 and 
