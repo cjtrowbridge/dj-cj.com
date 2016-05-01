@@ -15,6 +15,10 @@
 				background-image:url(images/bg.jpg);
 				background-attachment:fixed;
 			}
+			.jumbotron{
+				background-color: #6f00ff;
+				color: #ffffff;
+			}
 			.col-xs-12{
 				background-color: #ffffff;
 				padding-top: 1em;
