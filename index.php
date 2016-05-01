@@ -94,14 +94,11 @@
 			</div-->
 			<div class="row">
 				<div class="col-xs-12">
-					<table>
-						<tr>
-							<td><img src="images/eon-r.gif" height="100" alt="JBL EON"></td>
-							<td><img src="images/ssl.gif" height="100" alt="Serato Scratch LIVE"></td>
-							<td><img src="images/mixer.png" height="100" alt="Denon X500 and HC4500"></td>
-							<td><img src="images/eon-l.gif" height="100" alt="JBL EON"></td>
-						</tr>
-					</table><br>
+					<img class="col-xs-12 col-xs-4" src="images/eon-r.gif" alt="JBL EON">
+					<img class="col-xs-12 col-xs-4" src="images/ssl.gif" alt="Serato Scratch LIVE">
+					<img class="col-xs-12 col-xs-4" src="images/mixer.png" alt="Denon X500 and HC4500">
+					<img class="col-xs-12 col-xs-4" src="images/eon-l.gif" alt="JBL EON">
+					
 					<p>I bring a top-of-the-line sound system, a lighting rig and a huge collection of the most 
 					up to date content available. My mixer and controller are a Denon X500 and a Denon HC4500 and 
 					sound is provided by JBL Eon powered loudspeakers. Only the best.</p>
