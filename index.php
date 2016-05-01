@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<title>DJ CJ: A Decade of EDM and Progressive House</title>
+		<link rel="icon" type="image/gif" fref="/favicon.gif">
 
 		<!-- Required meta tags always come first -->
 		<meta charset="utf-8">
