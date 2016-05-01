@@ -35,7 +35,7 @@
 					<h1>DJ CJ</h1> 
 					<p>Twelve Years of EDM and Progressive House</p>
 					<div style="float: right;">
-						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
 					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a> - 
 					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
