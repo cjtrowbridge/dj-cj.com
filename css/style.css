@@ -8,7 +8,8 @@ body{
 }
 .call_to_action h1 a,
 .call_to_action h2 a,
-.call_to_action{
+.call_to_action a,
+.call_to_action {
 	text-align: center;
 	color: #4e00b3;
 }
@@ -17,7 +18,8 @@ body{
 	color: #ffffff;
 }
 .call_to_action:hover h1 a,
-.call_to_action:hover h2 a{
+.call_to_action:hover h2 a,
+.call_to_action:hover a{
 	color: #ffffff;
 }
 .col-xs-12{
