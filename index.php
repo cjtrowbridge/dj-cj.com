@@ -17,6 +17,12 @@
 		<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
 		
 		<link rel="stylesheet" href="css/style.css">
+		
+		<meta property="og:url"           content="https://dj-cj.com/">
+		<meta property="og:type"          content="website">
+		<meta property="og:title"         content="DJ CJ: Twelve Years of EDM and Progressive House">
+		<meta property="og:description"   content="A moblie DJ with over a decade of experience in everything from nightclubs to churches, house parties to weddings.">
+		<meta property="og:image"         content="https://dj-cj.com/favicon.gif">
 	</head>
 	<body>
 		<div class="row">
@@ -29,6 +35,9 @@
 					<h1>DJ CJ</h1> 
 					<p>Twelve Years of EDM and Progressive House</p>
 					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a>
+					<div class="pull-left">
+						facebook like button
+					</div>
 				</div>
 			</div>
 		</div>
