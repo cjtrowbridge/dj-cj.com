@@ -25,7 +25,9 @@ body{
 	color: #ffffff;
 }
 .col-xs-12{
-	background-color: #ffffff;
+	//background-color: #ffffff;
+	background-color: #4e00b3;
+	color: #ffffff;
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
