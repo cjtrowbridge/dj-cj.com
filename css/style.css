@@ -9,6 +9,9 @@ body{
 	border: 4px solid #4e00b3;
 	font-family: 'Roboto Condensed', sans-serif;
 }
+h1, h2, h3{
+	font-family: 'Roboto Condensed', sans-serif;
+}
 .jumbotron h1{
 	font-family: 'Rubik One', sans-serif;
 }
