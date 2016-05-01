@@ -57,7 +57,7 @@
 					<h2>And Lots More</h2>
 				</div>
 			</div>
-			<div class="row">
+			<!--div class="row">
 				<div class="col-xs-12">
 					<h3>Download My Free Sample Mixes!</h3>
 					<div>
@@ -70,7 +70,7 @@
 						mix does contain explicit lyrics.</p>
 					</div>
 				</div>
-			</div>
+			</div-->
 			<div class="row">
 				<div class="col-xs-12">
 					<table>
