@@ -16,7 +16,7 @@
 				background-attachment:fixed;
 			}
 			.jumbotron{
-				background-color: #6f00ff;
+				background-color: #4e00b3;
 				color: #ffffff;
 			}
 			.col-xs-12{
