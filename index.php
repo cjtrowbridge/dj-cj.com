@@ -49,6 +49,8 @@
 						<div class="col-xs-12 col-md-5">
 							<h3>Bars and Nightclubs</h3>
 							<ul>
+								<li>Club 21</li>
+								<li>Headhunters</li>
 								<li>Panama Bar and Cafe</li>
 								<li>The Maltese Bar and Taproom</li>
 								<li>The 501 Club</li>
@@ -70,6 +72,7 @@
 								<li>Parsons Elementary</li>
 								<li>Cow Creek School</li>
 								<li>Milville Elementary</li>
+								<li>Boulder Creek Elementary</li>
 							</ul>
 						</div>
 					</div>
@@ -88,7 +91,8 @@
 								<li>Subud Hall</li>
 								<li>Tale O' the Whale Restaurant</li>
 								<li>American Legion Hall</li>
-								<li>Lots of Weddings and Parties</li>
+								<li>The Imperial Sovereign Court of Chico</li>
+								<li>Lots of Weddings</li>
 							</ul>
 						</div>
 					</div>
