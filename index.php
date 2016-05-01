@@ -39,8 +39,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="jumbotron">
-					<h1>dj-cj.com</h1> 
-					<p>a decade of djing</p> 
+					<h1>DJ CJ</h1> 
+					<p>a decade of edm and progressive house</p> 
 				</div>
 				
 			</div>
