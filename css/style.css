@@ -7,6 +7,9 @@ body{
 }
 .jumbotron{
 	border: 4px solid #4e00b3;
+	
+}
+.jumbotron .dj-cj{
 	font-family: 'Sigmar One', sans-serif;
 }
 .call_to_action h1 a,
