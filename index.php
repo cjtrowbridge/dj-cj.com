@@ -37,7 +37,7 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="row">
-						<div class="col-xs-12 col-md-7">
+						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-018.jpg" alt="Maltese Monthly Jello Wrestling">
 						</div>
 						<div class="col-xs-12 col-md-5">
@@ -63,12 +63,12 @@
 								<li>Milville Elementary</li>
 							</ul>
 						</div>
-						<div class="col-xs-12 col-md-7">
+						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-013.jpg" alt="Alpha Chi Winter Formal">
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-md-7">
+						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-011.jpg" alt="School Dinner Party">
 						</div>
 						<div class="col-xs-12 col-md-5">
@@ -87,7 +87,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-xs-12 col-md-5">
+						<div class="col-xs-12 col-md-5 photo">
 							<h3>Don't Forget House Parties</h3>
 							<ul>
 								<li>Halloween</li>
@@ -104,7 +104,7 @@
 			<div class="row">
 				&nbsp;
 			</div>
-			<!--div class="row">
+			<div class="row">
 				<div class="col-xs-12">
 					<h3>Download My Free Sample Mixes!</h3>
 					<div>
@@ -120,7 +120,7 @@
 			</div>
 			<div class="row">
 				&nbsp;
-			</div-->
+			</div>
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="col-xs-12 col-md-3 gear">
