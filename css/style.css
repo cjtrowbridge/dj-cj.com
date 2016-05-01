@@ -5,9 +5,8 @@ body{
 .header img{
 	width: 100%;
 }
-.jumbotron{
-	background-color: #4e00b3;
-	color: #ffffff;
+.jumbotron h1{
+	border-bottom: 4px solid #4e00b3;
 }
 .call_to_action h1 a,
 .call_to_action h2 a,
