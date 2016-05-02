@@ -6,6 +6,9 @@
 
 		<!-- Required meta tags always come first -->
 		<meta charset="utf-8">
+		<meta name="description" content="A moblie DJ with over a decade of experience in everything from nightclubs to churches, house parties to weddings.s">
+		<meta name="keywords" content="DJ, Mobile DJ, Sacramento, Portland, Chico, Weddings, Wedding DJ, Club DJ, House Party DJ, House Party">
+		<meta name="author" content="CJ Trowbridge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 
