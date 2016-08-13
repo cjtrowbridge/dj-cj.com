@@ -40,7 +40,7 @@
 					<div style="float: right;">
 						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
-					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">Email Me!</a> - 
+					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a><br>
 					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
 				</div>
 			</div>
