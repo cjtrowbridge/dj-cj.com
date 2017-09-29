@@ -158,7 +158,7 @@
 						besides me. They really sound great.
 					</p>
 					<div style="text-align: center;">
-						<img src="/images/JBL-Eon-615.jpg">
+						<img src="/images/JBL-Eon-615.jpg" style="width: 640px; max-width: 100%;">
 					</div>
 					
 					<p>
@@ -166,7 +166,7 @@
 						makes mixing your favorite tracks easier than ever! 
 					</p>
 					<div style="text-align: center;">
-						<img src="/images/Pioneer-DDJ-SB.jpg">
+						<img src="/images/Pioneer-DDJ-SB.jpg" style="width: 640px; max-width: 100%;">
 					</div>
 					
 					<p>
@@ -178,7 +178,7 @@
 						of these great lights.
 					</p>
 					<div style="text-align: center;">
-						<img src="/images/American-DJ-Revo-4.jpg">
+						<img src="/images/American-DJ-Revo-4.jpg" style="width: 640px; max-width: 100%;">
 					</div>
 					
 					<h4>COMING SOON</h4>
@@ -187,7 +187,7 @@
 						experience!
 					</p>
 					<div style="text-align: center;">
-						<img src="/images/American-DJ-Galaxian.jpg">
+						<img src="/images/American-DJ-Galaxian.jpg" style="width: 640px; max-width: 100%;">
 					</div>
 					
 				</div>
