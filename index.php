@@ -152,22 +152,24 @@
 				<div class="col-xs-12 whiteBox">
 					<h2>Recent Upgrades</h2>
 					
-					<div class="col-xs-12 col-md-6">
+					<div class="col-xs-12 col-md-8">
 						I recently upgraded to the newest generation of <b>JBL Eon 615</b> speakers. I was DJing at a parade recently and they asked me to turn them down! 
 						I know a lot of other DJs, and as far as I am aware, there are no other DJs or even nightclubs in the area that have upgraded to this new generation 
 						besides me. They really sound great.
 					</div>
-					<div class="col-xs-12 col-md-6">
-						<img src="/images/JBL-Eon-615.jpg" style="width: 640px; max-width: 100%;">
+					<div class="col-xs-12 col-md-4">
+						<img src="/images/JBL-Eon-615.jpg" style="width: 640px; 100%;">
 					</div>
-					<div class="col-xs-12 col-md-6">
+					
+					<div class="col-xs-12 col-md-8">
 						I recently made the change from vinyl and CDJs to the new <b>Pioneer DDJ-SB</b> all-digital controller. I don't know why I waited so long! This thing 
 						makes mixing your favorite tracks easier than ever! 
 					</div>
-					<div class="col-xs-12 col-md-6">
-						<img src="/images/Pioneer-DDJ-SB.jpg" style="width: 640px; max-width: 100%;">
+					<div class="col-xs-12 col-md-4">
+						<img src="/images/Pioneer-DDJ-SB.jpg" style="width: 640px; 100%;">
 					</div>
-					<div class="col-xs-12 col-md-6">
+					
+					<div class="col-xs-12 col-md-8">
 						Another recent change was a complete upgrade to my lighting rig. In the past, people have sometimes hired me just for the lights, as many other DJ's 
 						don't even bother to bring any! I have always put a lot of thought and effort into making sure the lights are at least as good as the sound. This is 
 						especially true now that I have upgraded to the <b>American DJ Revo 4</b>. These amazing LED lights can stun crowds even in some of the older buildings 
@@ -175,17 +177,17 @@
 						the oldest buildings with spectacular multicolor "moonflower" effects. I also bring a professional fog machine so you will really get the maximum effect 
 						of these great lights.
 					</div>
-					<div class="col-xs-12 col-md-6">
-						<img src="/images/American-DJ-Revo-4.jpg" style="width: 640px; max-width: 100%;">
+					<div class="col-xs-12 col-md-4">
+						<img src="/images/American-DJ-Revo-4.jpg" style="width: 100%;">
 					</div>
 					
 					<h4>COMING SOON</h4>
 					
-					<div class="col-xs-12 col-md-6">
+					<div class="col-xs-12 col-md-8">
 						I have a laser rig on back-order with the supplier. Soon, I will add these awesome laser effects to my arsonal and bring you the complete electronica 
 						experience!
 					</div>
-					<div class="col-xs-12 col-md-6">
+					<div class="col-xs-12 col-md-4">
 						<img src="/images/American-DJ-Galaxian.jpg" style="width: 640px; max-width: 100%;">
 					</div>
 					
