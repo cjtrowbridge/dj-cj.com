@@ -151,7 +151,7 @@
 			<div class="row">
 				<div class="col-xs-12 whiteBox">
 					<div class="row no-gutters">
-						<div class="col-xs-12 col-md-8">
+						<div class="col-xs-12 col-md-7">
 							<h2>Recent Upgrades</h2>
 							<p>
 								I recently upgraded to the newest generation of <b>JBL Eon 615</b> speakers. I was DJing at a parade recently and they asked me to turn them down! 
@@ -159,23 +159,23 @@
 								besides me. They really sound great.
 							</p>
 						</div>
-						<div class="col-xs-12 col-md-4">
+						<div class="col-xs-12 col-md-5">
 							<img src="/images/JBL-Eon-615.jpg" style="width: 100%;">
 						</div>
 					</div>
 					<div class="row no-gutters">
-						<div class="col-xs-12 col-md-8">
+						<div class="col-xs-12 col-md-7">
 							<p>
 								I recently made the change from vinyl and CDJs to the new <b>Pioneer DDJ-SB</b> all-digital controller. I don't know why I waited so long! This thing 
 								makes mixing your favorite tracks easier than ever!
 							</p>
 						</div>
-						<div class="col-xs-12 col-md-4">
+						<div class="col-xs-12 col-md-5">
 							<img src="/images/Pioneer-DDJ-SB.jpg" style="width: 100%;">
 						</div>
 					</div>
 					<div class="row no-gutters">
-						<div class="col-xs-12 col-md-8">
+						<div class="col-xs-12 col-md-7">
 							<p>
 								Another recent change was a complete upgrade to my lighting rig. People sometimes tell me it was hard to choose who was the right DJ for them until they saw 
 								my lights. Many other DJ's don't even bother to bring any! I have always put a lot of thought and effort into making sure the lights are at least as good as the sound. 
@@ -187,19 +187,19 @@
 								of these great lights.
 							</p>
 						</div>
-						<div class="col-xs-12 col-md-4">
+						<div class="col-xs-12 col-md-5">
 							<img src="/images/American-DJ-Revo-4.jpg" style="width: 100%;">
 						</div>
 					</div>
 					<div class="row no-gutters">
-						<div class="col-xs-12 col-md-8">
+						<div class="col-xs-12 col-md-7">
 							<br><h4>COMING SOON</h4>
 							<p>
 								I have a laser rig on back-order with the supplier. Soon, I will add these awesome laser effects to my arsonal and bring you the complete electronica 
 								experience!
 							</p>
 						</div>
-						<div class="col-xs-12 col-md-4">
+						<div class="col-xs-12 col-md-5">
 							<img src="/images/American-DJ-Galaxian.jpg" style="width: 100%;">
 						</div>
 					</div>
