@@ -57,7 +57,7 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-12">
+				<div class="col-xs-12 whiteBox">
 					<h3>Download My Free Mixes!</h3>
 					<div>
 						<h4>2010: Progressive Dance Mix</h4>
@@ -74,7 +74,7 @@
 				&nbsp;
 			</div>
 			<div class="row">
-				<div class="col-xs-12">
+				<div class="col-xs-12 whiteBox">
 					<div class="row">
 						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-018.jpg" alt="Maltese Monthly Jello Wrestling">
@@ -149,7 +149,7 @@
 			</div>
 			
 			<div class="row">
-				<div class="col-xs-12">
+				<div class="col-xs-12 whiteBox">
 					<div class="col-xs-12 col-md-3 gear">
 						<img src="images/eon-r.gif" alt="JBL EON">
 					</div>
@@ -174,7 +174,7 @@
 				&nbsp;
 			</div>
 			<div class="row">
-				<div class="col-xs-12">
+				<div class="col-xs-12 whiteBox">
 					<div class="row">
 						&nbsp;
 					</div>
