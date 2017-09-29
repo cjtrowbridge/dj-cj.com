@@ -37,7 +37,7 @@
 					<div style="float: right;">
 						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
-					<h1>DJ CJ: <span style="font-weight: normal;"><?php echo (date('Y')-2003); ?> Years.</span></h1>
+					<h1>DJ CJ: <?php echo (date('Y')-2003); ?> Years</h1>
 					<p><a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a>. <a href="tel:+1-530-953-9499">+1-530-953-9499</a>.
 					
 				</div>
