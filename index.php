@@ -35,13 +35,23 @@
 			<div class="row">
 				<!--div class="col-xs-12 header"><img src="/images/banner4.gif" alt="DJ CJ: A Decade of EDM and Progressive House"></div-->
 				<div class="jumbotron">
-					<h1>DJ CJ</h1> 
-					<p><?php echo (date('Y')-2003); ?> Years of EDM and Progressive House</p>
+					<div class="row no-gutters">
+						<div class="col-xs-12 col-md-4">
+							<h1>DJ CJ</h1>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							<p><?php echo (date('Y')-2003); ?> Years of EDM and Progressive House</p>
+						</div>
+						<div class="col-xs-12 col-md-4">
+							<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a><br>
+					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
+						</div>
+					</div>
+					
 					<div style="float: right;">
 						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
-					<a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a><br>
-					<a href="tel:+1-530-953-9499">+1-530-953-9499</a>
+					
 				</div>
 			</div>
 		</div>
