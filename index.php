@@ -226,7 +226,7 @@
 						&nbsp;
 					</div>
 				</div>
-				<div class="col-xs-12 col-md-6 call_to_action">
+				<div class="col-xs-12 col-md-6 call_to_action whiteBox">
 					<div class="row">
 						&nbsp;
 					</div>
@@ -238,7 +238,7 @@
 						&nbsp;
 					</div>
 				</div>
-				<div class="col-xs-12 col-md-6 call_to_action">
+				<div class="col-xs-12 col-md-6 call_to_action whiteBox">
 					<div class="row">
 						&nbsp;
 					</div>
