@@ -158,7 +158,7 @@
 						besides me. They really sound great.
 					</div>
 					<div class="col-xs-12 col-md-4">
-						<img src="/images/JBL-Eon-615.jpg" style="width: 640px; 100%;">
+						<img src="/images/JBL-Eon-615.jpg" style="width: 100%;">
 					</div>
 					
 					<div class="col-xs-12 col-md-8">
@@ -166,7 +166,7 @@
 						makes mixing your favorite tracks easier than ever! 
 					</div>
 					<div class="col-xs-12 col-md-4">
-						<img src="/images/Pioneer-DDJ-SB.jpg" style="width: 640px; 100%;">
+						<img src="/images/Pioneer-DDJ-SB.jpg" style="width: 100%;">
 					</div>
 					
 					<div class="col-xs-12 col-md-8">
@@ -188,7 +188,7 @@
 						experience!
 					</div>
 					<div class="col-xs-12 col-md-4">
-						<img src="/images/American-DJ-Galaxian.jpg" style="width: 640px; max-width: 100%;">
+						<img src="/images/American-DJ-Galaxian.jpg" style="width: 100%;">
 					</div>
 					
 				</div>
