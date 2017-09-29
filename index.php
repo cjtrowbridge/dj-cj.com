@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>DJ CJ: <?php echo (date('Y')-2003); ?> Years of EDM and Progressive House</title>
+		<title>DJ CJ: <?php echo (date('Y')-2003); ?> Years</title>
 		<link rel="icon" type="image/gif" href="/favicon.gif">
 
 		<!-- Required meta tags always come first -->
 		<meta charset="utf-8">
-		<meta name="description" content="A moblie DJ with over a decade of experience in everything from nightclubs to churches, house parties to weddings.s">
-		<meta name="keywords" content="DJ, Mobile DJ, Sacramento, Portland, Chico, Weddings, Wedding DJ, Club DJ, House Party DJ, House Party">
+		<meta name="description" content="A moblie DJ with over a decade of experience in everything from nightclubs to churches, house parties to weddings.">
 		<meta name="author" content="CJ Trowbridge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -23,7 +22,7 @@
 		
 		<meta property="og:url"           content="https://dj-cj.com/">
 		<meta property="og:type"          content="website">
-		<meta property="og:title"         content="DJ CJ: <?php echo (date('Y')-2003); ?> Years of EDM and Progressive House">
+		<meta property="og:title"         content="DJ CJ: <?php echo (date('Y')-2003); ?> Years">
 		<meta property="og:description"   content="A moblie DJ with over a decade of experience in everything from nightclubs to churches, house parties to weddings.">
 		<meta property="og:image"         content="https://dj-cj.com/favicon.gif">
 	</head>
@@ -39,7 +38,7 @@
 						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
 					<h1>DJ CJ</h1>
-					<p><br><?php echo (date('Y')-2003); ?> Years of Everything from Nightclubs to Churches, House Parties to Weddings. <a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a>. <a href="tel:+1-530-953-9499">+1-530-953-9499</a>.
+					<p><br><?php echo (date('Y')-2003); ?> Years. <a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a>. <a href="tel:+1-530-953-9499">+1-530-953-9499</a>.
 					
 				</div>
 			</div>
