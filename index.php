@@ -191,12 +191,9 @@
 							<img src="/images/American-DJ-Revo-4.jpg" style="width: 100%;">
 						</div>
 					</div>
-					<div class="row">
-						&nbsp;
-					</div>
 					<div class="row no-gutters">
 						<div class="col-xs-12 col-md-8">
-							<h4>COMING SOON</h4>
+							<br><h4>COMING SOON</h4>
 							<p>
 								I have a laser rig on back-order with the supplier. Soon, I will add these awesome laser effects to my arsonal and bring you the complete electronica 
 								experience!
