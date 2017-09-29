@@ -56,6 +56,23 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12">
+					<h3>Download My Free Mixes!</h3>
+					<div>
+						<h4>2010: Progressive Dance Mix</h4>
+						<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/122797726&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+						<p>This mix contains 24 progressive dance tracks, from a great mix session 
+						which demonstrates my favorite style of music; fast paced, high energy dance.
+						I take you from hip-hop to dubstep and everywhere in between. This is a CD
+						you're sure to leave in the car for a long time to come! Be aware, this 
+						mix does contain explicit lyrics.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				&nbsp;
+			</div>
+			<div class="row">
+				<div class="col-xs-12">
 					<div class="row">
 						<div class="col-xs-12 col-md-7 photo">
 							<img src="/images/dj-cj-018.jpg" alt="Maltese Monthly Jello Wrestling">
@@ -128,23 +145,7 @@
 			<div class="row">
 				&nbsp;
 			</div>
-			<div class="row">
-				<div class="col-xs-12">
-					<h3>Download My Free Mixes!</h3>
-					<div>
-						<h4>2010: Progressive Dance Mix</h4>
-						<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/122797726&amp;color=ff6600&amp;auto_play=true&amp;show_artwork=true"></iframe>
-						<p>This mix contains 24 progressive dance tracks, from a great mix session 
-						which demonstrates my favorite style of music; fast paced, high energy dance.
-						I take you from hip-hop to dubstep and everywhere in between. This is a CD
-						you're sure to leave in the car for a long time to come! Be aware, this 
-						mix does contain explicit lyrics.</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				&nbsp;
-			</div>
+			
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="col-xs-12 col-md-3 gear">
