@@ -152,7 +152,7 @@
 				<div class="col-xs-12 whiteBox">
 					<div class="row no-gutters">
 						<div class="col-xs-12 col-md-8">
-							h2>Recent Upgrades</h2>
+							<h2>Recent Upgrades</h2>
 							<p>
 								I recently upgraded to the newest generation of <b>JBL Eon 615</b> speakers. I was DJing at a parade recently and they asked me to turn them down! 
 								I know a lot of other DJs, and as far as I am aware, there are no other DJs or even nightclubs in the area that have upgraded to this new generation 
