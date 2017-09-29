@@ -39,7 +39,7 @@
 						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
 					<h1>DJ CJ</h1>
-					<p><?php echo (date('Y')-2003); ?> Years of Everything from Nightclubs to Churches, House Parties to Weddings. <a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a>. <a href="tel:+1-530-953-9499">+1-530-953-9499</a>.
+					<p><br><?php echo (date('Y')-2003); ?> Years of Everything from Nightclubs to Churches, House Parties to Weddings. <a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a>. <a href="tel:+1-530-953-9499">+1-530-953-9499</a>.
 					
 				</div>
 			</div>
