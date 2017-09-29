@@ -51,11 +51,6 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
-					<h1>Check Out Some Of My Work...</h1>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-xs-12">
 					<h3>Download My Free Mixes!</h3>
 					<div>
 						<h4>2010: Progressive Dance Mix</h4>
