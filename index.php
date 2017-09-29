@@ -151,10 +151,8 @@
 			<div class="row">
 				<div class="col-xs-12 whiteBox">
 					<div class="row no-gutters">
-						<h2>Recent Upgrades</h2>
-					</div>
-					<div class="row no-gutters">
 						<div class="col-xs-12 col-md-8">
+							h2>Recent Upgrades</h2>
 							<p>
 								I recently upgraded to the newest generation of <b>JBL Eon 615</b> speakers. I was DJing at a parade recently and they asked me to turn them down! 
 								I know a lot of other DJs, and as far as I am aware, there are no other DJs or even nightclubs in the area that have upgraded to this new generation 
@@ -194,12 +192,8 @@
 						</div>
 					</div>
 					<div class="row no-gutters">
-						<div class="col-xs-12">
-							<h4>COMING SOON</h4>
-						</div>
-					</div>
-					<div class="row no-gutters">
 						<div class="col-xs-12 col-md-8">
+							<h4>COMING SOON</h4>
 							<p>
 								I have a laser rig on back-order with the supplier. Soon, I will add these awesome laser effects to my arsonal and bring you the complete electronica 
 								experience!
