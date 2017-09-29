@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>DJ CJ: <?php echo (date('Y')-2003); ?> Years</title>
+		<title>DJ-CJ: <?php echo (date('Y')-2003); ?> Years</title>
 		<link rel="icon" type="image/gif" href="/favicon.gif">
 
 		<!-- Required meta tags always come first -->
@@ -22,7 +22,7 @@
 		
 		<meta property="og:url"           content="https://dj-cj.com/">
 		<meta property="og:type"          content="website">
-		<meta property="og:title"         content="DJ CJ: <?php echo (date('Y')-2003); ?> Years">
+		<meta property="og:title"         content="DJ-CJ: <?php echo (date('Y')-2003); ?> Years">
 		<meta property="og:description"   content="A moblie DJ with over a decade of experience in everything from nightclubs to churches, house parties to weddings.">
 		<meta property="og:image"         content="https://dj-cj.com/favicon.gif">
 	</head>
@@ -37,7 +37,7 @@
 					<div style="float: right;">
 						<div class="fb-like" data-href="https://www.facebook.com/djcj03/" data-width="273" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 					</div>
-					<h1>DJ CJ: <?php echo (date('Y')-2003); ?> Years</h1>
+					<h1>DJ-CJ: <?php echo (date('Y')-2003); ?> Years</h1>
 					<p><a href="mailto:chris.j.trowbridge@gmail.com" class="pull-right">chris.j.trowbridge@gmail.com</a>. <a href="tel:+1-530-953-9499">+1-530-953-9499</a>.
 					
 				</div>
@@ -46,9 +46,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 whiteBox">
-					<h3>Download My Free Mixes!</h3>
 					<div>
-						<h4>2010: Progressive Dance Mix</h4>
+						<h4>2010: Progressive Dance Mix (Download For Free)</h4>
 						<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/122797726&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
 						<p>This mix contains 24 progressive dance tracks, from a great mix session 
 						which demonstrates my favorite style of music; fast paced, high energy dance.
