@@ -180,10 +180,9 @@
 					</div>
 					<div class="row no-gutters">
 						<div class="col-xs-12 col-md-7">
-							<br><h4>COMING SOON</h4>
+							<br><h4>Lasers!</h4>
 							<p>
-								I have a laser rig on back-order with the supplier. Soon, I will add these awesome laser effects to my arsonal and bring you the complete electronica 
-								experience!
+								Laser effects are the ultimate accompaniment to house music. These make a great impression while stunning crowds with their dramatic effects. Just wait until you see the reaction!
 							</p>
 						</div>
 						<div class="col-xs-12 col-md-5">
