@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+<?php
+
+header('Location: https://trowbridge.events/cj');
+exit;
+
+?><!DOCTYPE html>
 <html lang="en">
 	<head>
 		<title>DJ-CJ: <?php echo (date('Y')-2003); ?> Years</title>
